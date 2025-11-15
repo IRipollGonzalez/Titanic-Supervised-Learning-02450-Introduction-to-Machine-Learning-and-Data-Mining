@@ -1,4 +1,4 @@
-# Titanic-Supervised-Learning-02450
+# Titanic-Supervised-Learning
 
 Supervised learning analysis of the Titanic dataset for the DTU course **02450 – Introduction to Machine Learning and Data Mining**.  
 This project builds upon the exploratory work from Report 1 and applies regression and classification models, including hyperparameter tuning and statistical comparison using two-level cross-validation.  
